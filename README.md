@@ -45,6 +45,8 @@ ann_path: 'annotations.json'
 ```
 
 * Download the model and modify the following parameters in UniQ4Cap/script:
+All checkpoints can be availible here:   
+Bert: 🤗[Huggfacing](https://huggingface.co/google-bert); Pre-aligned Encoder: [Baidu Disk](https://pan.baidu.com/s/1CxF7U0GTo8VMvLgFdT94LQ?pwd=bdss); Query Transformer: [Baidu Disk](https://pan.baidu.com/s/1s23pI-lVXUeIks_-ptUx9Q?pwd=sac1).
 ```bash
   vit_config: "/mnt/ha/bd2/LAVIS/mm_llm/configs/video_config.json"
   aud_config: "/mnt/ha/bd2/LAVIS/mm_llm/configs/audio_config.json"
@@ -53,8 +55,6 @@ ann_path: 'annotations.json'
   bert_pretrained: ""
   qformer_pretrained: ""
 ```
-All checkpoints can be availible here:   
-Bert: 🤗[Huggfacing](https://huggingface.co/google-bert); Pre-aligned Encoder: [Baidu Disk](https://pan.baidu.com/s/1CxF7U0GTo8VMvLgFdT94LQ?pwd=bdss); Query Transformer: [Baidu Disk](https://pan.baidu.com/s/1s23pI-lVXUeIks_-ptUx9Q?pwd=sac1).
 
 * Start Training
 ```bash
