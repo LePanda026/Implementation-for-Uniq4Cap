@@ -10,7 +10,7 @@ The following first figure shows the architecture and training pipeline of UniQ4
 <img src="https://github.com/LePanda026/Implementation-for-Uniq4Cap/blob/main/model.png" />
 ### 📺 A multimodal dataset containing video, audio and multimodal textual description
 We contribute a new dataset that includes both **video and audio, with annotations describing both modalities**. The dataset comprises a training set of **100K** video, and the test set includes **35K**.
-<img src="https://github.com/LePanda026/Implementation-for-Uniq4Cap/blob/main/datset.png" />
+<img src="https://github.com/LePanda026/Implementation-for-Uniq4Cap/blob/main/dataset.png" />
 The second figure shows our proposed dataset, which includes three modalities: video, audio, and language. Due to policy constraints, we are unable to directly distribute the videos. Instead, we offer YouTube IDs that allow you to download the videos on your own. You can access all textual sources and YouTube IDs for download from [Google Disk](https://drive.google.com/file/d/160P8r5Hc9IcZ5wsuCpIocfbaZMh9U7Gq/) or [Baidu Disk](https://pan.baidu.com/s/1HBmcnHW2HZYX57p_QnvUhg?pwd=9teq).
 
 ## 🔧 Quick Start
