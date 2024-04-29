@@ -44,7 +44,7 @@ data_path: 'raw data dir'
 ann_path: 'annotations.json'
 ```
 
-* Download the model and modify the following parameters in UniQ4Cap/script:
+* Download the model and modify the following parameters in UniQ4Cap/script:  
 All checkpoints can be availible here:   
 Bert: 🤗[Huggfacing](https://huggingface.co/google-bert); Pre-aligned Encoder: [Baidu Disk](https://pan.baidu.com/s/1CxF7U0GTo8VMvLgFdT94LQ?pwd=bdss); Query Transformer: [Baidu Disk](https://pan.baidu.com/s/1s23pI-lVXUeIks_-ptUx9Q?pwd=sac1).
 ```bash
