@@ -1,5 +1,5 @@
 # About
-This is the code for Uniq4Cap,which is proposed in 'UniQ4Cap Unified Query Representation from Pre-aligned Video and Audio for Multimodal Video Captioning'
+This is the code for Uniq4Cap,which proposed in “UniQ4Cap Unified Query Representation from Pre-aligned Video and Audio for Multimodal Video Captioning”
 ## 💡 Highlights
 ### ✨Superior performance, but relative low demand in computation
 UniQ4Cap is a **lightweight** multimodal video captioning method that **distills useful information** for multimodal video captioning from **jointed pre-aligned video and audio features**.
