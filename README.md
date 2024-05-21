@@ -2,7 +2,7 @@
 This is the code for Uniq4Cap,which proposed in “UniQ4Cap Unified Query Representation from Pre-aligned Video and Audio for Multimodal Video Captioning”
 
 
-**Authors**: Junshuo Zhang^#, Guangyu Wang^#, Jing Liu^#, **Ming Gao^{#*}**, Zhiqiao Wu^#, Jiafu Tang^#, Bowei Chen^#, Weiguo Fan^#. Dongbei University of Finance and Economics, all the authors contributed equally to this work. Corresponding author: Ming Gao.
+**Authors**: Junshuo Zhang<sub>#, Guangyu Wang<sub>#, Jing Liu<sub>#, **Ming Gao<sub>{#*}**, Zhiqiao Wu<sub>#, Jiafu Tang<sub>#, Bowei Chen<sub>#, Weiguo Fan<sub>#. Dongbei University of Finance and Economics, all the authors contributed equally to this work. Corresponding author: Ming Gao.
 ## 💡 Highlights
 ### ✨Superior performance, but relative low demand in computation
 UniQ4Cap is a **lightweight** multimodal video captioning method that **distills useful information** for multimodal video captioning from **jointed pre-aligned video and audio features**.
